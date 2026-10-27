@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tanno</string>
+    <string name="accessibility_service_description">Tanno ko apki screen dekhne aur voice command par actions (tap, open app, type) karne ki ijazat dein.</string>
+</resources>
