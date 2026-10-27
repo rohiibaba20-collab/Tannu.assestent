@@ -14,7 +14,6 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
         android:label="Tanno"
         android:theme="@style/Theme.Tanno">
 
